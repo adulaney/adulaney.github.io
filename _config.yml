@@ -1,1 +1,106 @@
-theme: jekyll-theme-slate
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you: 
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: Machine Learning in Soft Matter
+logo: "/assets/logo.png"
+author: Austin R. Dulaney
+email: adulaney [at] caltech.edu
+# description: >- # this means to ignore newlines until "baseurl:"
+  # Write an awesome description for your new site here. You can edit this
+  # line in _config.yml. It will appear in your document head meta (for
+  # Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "localhost:4000/" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: _adulaney
+github_username:  adulaney
+
+twitter:
+  username: _adulaney # jekyll-seo-tag > Owners twitter username
+social:
+  name: Austin Dulaney
+  links:
+    - https://twitter.com/_adulaney
+    - https://www.linkedin.com/in/adulaney
+    - https://github.com/adulaney
+    - https://scholar.google.com/citations?hl=en&user=my1NWkYAAAAJ&view_op=list_works&sortby=pubdate
+    - https://arxiv.org/search/cond-mat?searchtype=author&query=Dulaney%2C+A+R
+
+# Build settings
+# theme: minima
+# remote_theme: "mmistakes/minimal-mistakes@4.22.0"
+remote_theme: daviddarnes/alembic@main
+
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  # - font-awesome-less
+  # - font-awesome-sass
+
+navigation_header:
+  - title: Home 
+    url: /
+  - title: About 
+    url: /about/
+  - title: Blog
+    url: /blog/
+  - title: Research 
+    url: /research/
+  - title: Teaching 
+    url: /teaching/
+
+social_links:
+  Twitter: https://twitter.com/_adulaney
+  LinkedIn: https://linkedin.com/in/adulaney
+  GitHub: https://github.com/adulaney
+  GoogleScholar: https://scholar.google.com/citations?hl=en&user=my1NWkYAAAAJ&view_op=list_works&sortby=pubdate
+  ArXiv: https://arxiv.org/search/cond-mat?searchtype=author&query=Dulaney%2C+A+R
+
+sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
+  Twitter: "#0d94e7"
+  facebook: "#3B5998"
+  LinkedIn: "#0A66C2"
+  Email: true
+
+navigation_footer:
+
+  # - title: icon('fas', 'flag')
+  #   url: blahblah
+  # - title: <body>{% include buttom.html text="I'm a button" link=https://github.com/adulaney %}</body>
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

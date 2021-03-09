@@ -1,0 +1,18 @@
+- name: Email
+  logo: "envelope-o"
+  url: "mailto:adulaney@caltech.edu"
+- name: GitHub
+  logo: "github"
+  url: https://www.github.com/adulaney
+- name: LinkedIn
+  logo: "linkedin"
+  url: https://www.linkedin.com/in/adulaney
+- name: Twitter
+  logo: "twitter"
+  url: https://twitter.com/_adulaney
+- name: Google Scholar
+  logo: "graduation-cap"
+  url: https://scholar.google.com/citations?hl=en&user=my1NWkYAAAAJ&view_op=list_works&sortby=pubdate
+- name: arXiv
+  logo: 
+  url: https://arxiv.org/search/cond-mat?searchtype=author&query=Dulaney%2C+A+R
