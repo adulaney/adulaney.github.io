@@ -4,17 +4,12 @@ GEM
     addressable (2.7.0)
       public_suffix (>= 2.0.2, < 5.0)
     colorator (1.1.0)
-    commonjs (0.2.7)
     concurrent-ruby (1.1.8)
     em-websocket (0.5.2)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
     eventmachine (1.2.7)
     ffi (1.15.0)
-    font-awesome-less (4.7.0)
-      less (>= 2.4.0)
-    font-awesome-sass (5.15.1)
-      sassc (>= 1.11)
     forwardable-extended (2.6.0)
     http_parser.rb (0.6.0)
     i18n (1.8.9)
@@ -51,8 +46,6 @@ GEM
       rexml
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
-    less (2.6.0)
-      commonjs (~> 0.2.7)
     liquid (4.0.3)
     listen (3.4.1)
       rb-fsevent (~> 0.10, >= 0.10.3)
@@ -82,8 +75,6 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  font-awesome-less (~> 4.7.0)
-  font-awesome-sass (~> 5.15.1)
   jekyll (~> 4.2.0)
   jekyll-feed (~> 0.12)
   jekyll-remote-theme
