@@ -21,8 +21,7 @@ group :jekyll_plugins do
 
   gem "jekyll-remote-theme"
   gem "jekyll-seo-tag"
-  gem 'font-awesome-less', "~> 4.7.0"
-  
+  # gem 'font-awesome-less', "~> 4.7.0"
 end
 
 # gem "jekyll-remote-theme"
