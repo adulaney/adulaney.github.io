@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-<img alight="right" src="{{site.baseurl}}/assets/profile_picture.png">
-I am currently a postdoctoral scholar at [Caltech](https://www.caltech.edu/) who uses machine learning to understand and predict collective dynamics and emergent phenomena in soft matter suspensions. I am currently looking for a new career opportunity in machine learning or data science.
-
-<!-- ![Profile Picture]({{ site.baseurl }}/assets/profile_picture.png){: .image-left } -->
-<!-- <img alight="right" src="{{site.baseurel}}/assets/profile_picture.png"> -->
+<!-- ![Profile Picture]({{ site.baseurl }}/assets/profile_picture.png) -->
+<div>
+    <img src="{{site.baseurl}}/assets/profile_picture.png" style="float:right; width:50%; margin:0px 30px"/>
+</div>
+I am currently a postdoctoral scholar at <a href="https://www.caltech.edu/">Caltech</a> who uses machine learning to understand and predict collective dynamics and emergent phenomena in soft matter suspensions. I am currently looking for a new career opportunity in machine learning or data science.
 
 # California Institute of Technology (2016-2020)
 Ph.D. in Chemical Engineering  
@@ -24,7 +24,7 @@ During my time here, I showed how phase behavior in these systems can be predict
 B.S. in Chemical Engineering (*Honors*)  
 Omega Chi Epsilon  
 Tau Beta Pi  
-Advisors: [Christopher J. Ellison](https://www.cems.umn.edu/people/faculty/christopher-ellison) and [Michael Baldea](https://che.utexas.edu/faculty-staff/faculty-directory/michael-baldea-phd/)
+Advisors: [Christopher J. Ellison](https://www.cems.umn.edu/people/faculty/christopher-ellison) and [Michael Baldea](https://che.utexas.edu/faculty-staff/faculty-directory/michael-baldea-phd/) |
 
 Before starting at Caltech, I received my B.S. in Chemical Engineering at The University of Texas at Austin. 
 While I was in Austin I had the great privilege to work with some phenomenal people while doing research in experimental polymer physics in Dr. Christopher Ellison's lab. 
@@ -43,15 +43,3 @@ I also enjoy playing D&D with my wife and colleagues, improv comedy, playing gui
 
 
 
-<!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll -->
