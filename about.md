@@ -18,7 +18,7 @@ Thesis: [Density Fluctuations and Machine Learning in Active Matter](https://the
 From 2016-2020, I was a Ph.D. student in Chemical Engineering at Caltech under John Brady. 
 The Brady group is known for its theoretical advancement and computer simulation in the areas of complex fluids, colloidal suspensions, and active matter. 
 Active matter refers to a material in which each constituent is capable of self-propulsion (i.e. colonies of bacteria, school of fish, or flocks of birds). 
-During my time here, I showed how phase behavior in these systems can be predicted with machine learning. Please see my [blog post]() to learn more!
+During my time here, I showed how phase behavior in these systems can be predicted with machine learning. Please see my [blog post]({{site.baseurl}}/posts/2021/03/06/machine-learning-to-recreate-the-active-matter-phase-diagram.html) to learn more!
 
 # The University of Texas at Austin (2012-2016)
 B.S. in Chemical Engineering (*Honors*)  
