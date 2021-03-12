@@ -2,7 +2,8 @@
 layout: post
 title:  "Machine learning to recreate the active matter phase diagram"
 date:   2021-03-06 10:46:11 -0800
-categories: Posts
+# categories: Posts
+# aside: true
 ---
 
 <!--  -->
