@@ -23,7 +23,7 @@ During my time here, I showed how phase behavior in these systems can be predict
 B.S. in Chemical Engineering (*Honors*)  
 Omega Chi Epsilon  
 Tau Beta Pi  
-Advisors: [Christopher J. Ellison](https://www.cems.umn.edu/people/faculty/christopher-ellison) and [Michael Baldea](https://che.utexas.edu/faculty-staff/faculty-directory/michael-baldea-phd/) |
+Advisors: [Christopher J. Ellison](https://www.cems.umn.edu/people/faculty/christopher-ellison) and [Michael Baldea](https://che.utexas.edu/faculty-staff/faculty-directory/michael-baldea-phd/)
 
 Before starting at Caltech, I received my B.S. in Chemical Engineering at The University of Texas at Austin. 
 While I was in Austin I had the great privilege to work with some phenomenal people while doing research in experimental polymer physics in Dr. Christopher Ellison's lab. 
