@@ -8,7 +8,7 @@ permalink: /about/
 <div>
     <img src="{{site.baseurl}}/assets/profile_picture.png" style="float:right; width:50%; margin:0px 30px"/>
 </div>
-I am currently a postdoctoral scholar at <a href="https://www.caltech.edu/">Caltech</a> who uses machine learning to understand and predict collective dynamics and emergent phenomena in soft matter suspensions. I am currently looking for a new career opportunity in machine learning or data science.
+I am recently graduated from and currently a postdoctoral scholar at <a href="https://www.caltech.edu/">Caltech</a> who uses machine learning to understand and predict collective dynamics and emergent phenomena in soft matter suspensions. I am currently looking for a new career opportunity in machine learning or data science.
 
 # California Institute of Technology (2016-2020)
 Ph.D. in Chemical Engineering  
